@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>thanks.75c47e48-084f-421f-b39e-7504fac38c1b.jpg</filename>
+	<path>/media/master/kali/Open-Source/SignSpeak/Data/images/thanks.75c47e48-084f-421f-b39e-7504fac38c1b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>26</ymin>
+			<xmax>600</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

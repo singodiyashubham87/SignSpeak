@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>quiet.199b5b24-84eb-4ef2-b88b-39dab66ed454.jpg</filename>
+	<path>/media/master/kali/Open-Source/SignSpeak/Data/images/quiet.199b5b24-84eb-4ef2-b88b-39dab66ed454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quiet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>221</ymin>
+			<xmax>455</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

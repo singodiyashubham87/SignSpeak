@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>yes.3705a03d-4c28-4c95-819b-a78e3f36c493.jpg</filename>
+	<path>/media/master/kali/Open-Source/SignSpeak/Data/images/yes.3705a03d-4c28-4c95-819b-a78e3f36c493.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>232</ymin>
+			<xmax>257</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

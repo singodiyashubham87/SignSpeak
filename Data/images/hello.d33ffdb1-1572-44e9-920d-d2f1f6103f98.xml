@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hello.d33ffdb1-1572-44e9-920d-d2f1f6103f98.jpg</filename>
+	<path>/media/master/kali/Open-Source/SignSpeak/Data/images/hello.d33ffdb1-1572-44e9-920d-d2f1f6103f98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>105</ymin>
+			<xmax>313</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
